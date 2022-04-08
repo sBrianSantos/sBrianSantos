@@ -1,3 +1,3 @@
-<img src='https://user-images.githubusercontent.com/101475826/162538169-4cb9a4ed-2bc2-46da-b925-0b057e47a14a.gif'>
+<img src='https://user-images.githubusercontent.com/101475826/162542137-34d12c73-bd6a-406d-b350-0664b88e9a5a.jpg'>
 
 ### Hi there 👋
