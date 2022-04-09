@@ -9,11 +9,11 @@
 
 #
 
-<div style="display: flex; padding: 1rem 0" align='start'>
-  
-  ![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=BadBoyORG&show_icons=true&theme=tokyonight&text_color=999999&locale=pt-br)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BadBoyORG&bg_color=00000000&text_color=999999&hide_border=true&locale=pt-br)  
+<div align="center">
+  <a href="https://github.com/BadBoyORG">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=BadBoyORG&show_icons=true&theme=tokyonight&text_color=999999&locale=pt-br">
+    <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BadBoyORG&bg_color=00000000&text_color=999999&hide_border=true&locale=pt-br"> 
+  </a>
 </div>
 
 ### 🟣 Liguagens:
