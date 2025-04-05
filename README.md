@@ -6,12 +6,12 @@
   <tr>
     <td align="center">
       <a href="https://github.com/BadBoyORG">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=BadBoyORG&show_icons=true&theme=tokyonight&text_color=999999&locale=pt-br" alt="Brian's GitHub Stats">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=sBrianSantos&show_icons=true&theme=tokyonight&text_color=999999&locale=pt-br" alt="Brian's GitHub Stats">
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/BadBoyORG">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BadBoyORG&bg_color=00000000&text_color=999999&hide_border=true&locale=pt-br" alt="Top Languages">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sBrianSantos&bg_color=00000000&text_color=999999&hide_border=true&locale=pt-br" alt="Top Languages">
       </a>
     </td>
   </tr>
@@ -67,7 +67,7 @@
   
   [![Email](https://img.shields.io/badge/mail-7030a0?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:sbriansantos2002@gmail.com)
   <a href="https://www.linkedin.com/in/brian-santos-790729212/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  [![Web Site](https://img.shields.io/badge/web%20site-7030a0?style=for-the-badge&logo=Google%20Chrome&logoColor=white)](https://github.com/BadBoyORG)
+  [![Web Site](https://img.shields.io/badge/web%20site-7030a0?style=for-the-badge&logo=Google%20Chrome&logoColor=white)](https://github.com/sBrianSantos)
 </div>
 
 #
